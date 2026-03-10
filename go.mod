@@ -1,4 +1,4 @@
-module server
+module github.com/bebe018/simplebank
 
 go 1.25.2
 
